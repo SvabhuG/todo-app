@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+p {
+  font-size: 1.4vw;
+  margin: .3vw;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.cleabutton {
+  margin: 20vw;
+}
